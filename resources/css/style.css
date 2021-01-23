@@ -1,0 +1,37 @@
+/* overall */
+
+html {
+    background-color: black;
+}
+
+body {
+    font-family: Verdana; 
+    color: white;
+    text-align: center;
+}
+
+/* main */
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+#download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color:gray
+}
+/* footer */
+footer p {
+    text-align: right;
+    color: gray
+}
